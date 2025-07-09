@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "greenmartbot",
+  "private_key_id": "764124c5e2c89d98c10f62abd5276c2270803c5a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnDxVMIRIb13td\nFk4ABse+D++OH58AH8z/5bhmgOcFbWr0W3raNC6OtTHoITFrvGMBK0KoFor4/zM0\n0sNShEIfPyS0RSdC1ee3NSspkob1n3ZL2HUhY8squhAA3GvbkFTzlypyXQl3AVrQ\nAsdwMpjvcLaBv8nV8FopKh1eYzebrVoU7vetfdhVGOT5NIAA/H+tg1VLGDvIylY4\nkp4MSJHaXdlUp0N8k4Tzeip58AgFxWozeldpbKXMooyihJ3xYUE3o5Ods1BjtN/u\nnIxnwSQfaSwNQNpEwL2ZsGUOf2wo/DidK1k8eb+zkkLO0LFuc5y57TCsNecJrw+y\nNT3bRCstAgMBAAECggEACW2B+65gGb8i4KF6HGlFi3XVxJUHQZgJ1yUtL2e14eoH\nX6vr9nV8bSRPoTSCV/ylL7Mzy02eYSfxyVjdmgIJwz6qgRvn988fiQjQm0OAJ0ts\n/yHDlnNNy2b9sTa/RYBTMv4EcLjMaHFkoRmPDMdmNxkKy665or+yLuGID8QUps3d\nzJnx/bbyBksKXy9s9runq4O/8mtvgTeReqBBgtCYQuMp6N3dPXbT8uZCuXz9BW9H\nEwyv5eJePCnloo9Io1V/Z67uXAsuW8eA6W4YSe8P4N35YTfcT4bILl1iMC9m8ATM\n/z5D/+8UMxhz1QAJdNt4h3dp83uDAzb8ChaAt1IyVwKBgQDWhxokaEH7cxirFHMn\nxVxV3Gkawe22CNHFz4hh0SXjlayz/pGSZH/ljaomfd9LeoZVxks8PbgbQgRrSBZb\nhz3+WVMlEPOdZwZX9JArXJ1ZoZVX70B3pD5uDiD7u8bDrqpD49qvxbSAnGSueHEL\noZTJqDnef73tnINiVSOfPlRbOwKBgQDHWsRGpQATwW3+SCpNY7G3dUqUXjmVGwVs\nyNrhlguFtVBKVK5yZSU1uMofnqRXdRxd4MI7JOdNxDtfB2Ao+BfKCYRgXKy0r4Oa\nbYCUZpYMC49bCvwXf93e6yUOMaEUxg/aNewtIs31ZY5ZpPqX7fYW3y0CuC+tYChw\n5bNk1C2ctwKBgGjzg4iYMN+ROVpJEOU+GqQuxoS+p0rNGcNKepBQP9cNXIZaXmFe\nJWvqWHmoTtugP6Qq9JeuIinDrGHHzJhOm7eZf6G8n1I8GtBg5z8vehNlh6iTddiS\nU7CH3P8KqH0HMGkyScSAVoQs/tyUM8na7O2TDWya1hIu5d/vgxPe7GoNAoGAeIDe\nShGtFUQEOAPpRjRwFYRZ24uFZSMbSWG0JU5skptB+FxtwopvTqTv0OM1VgRdbEXT\nQqsRAkoO1WeA8eLdhmvwT8tVPjcl5vAwHARSyN8n/ZGLRq0tMXWURZssUoFSzcVw\niOwT8TU9MeTu8W2PJs4qyA0MDNImP/ApW1aCZ8sCgYEA1Z5F1MNMa1SEzZvdUd5T\nYqOnUicPC1Lh05Ogy2Ue1mr73g2YGOmO4nIvmT1nOuGkVZX3tR9fhG4r5v8TBoi7\nl69eua8gsNES2K8lpDfBQ78/FZz/kFmCwTctvDk6Ee/sDk1cbXYT/2vDF5l6ukgR\naQbtrzt916JeeWx0khoanhQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "greenmartbot@greenmartbot.iam.gserviceaccount.com",
+  "client_id": "103679746243351345633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/greenmartbot%40greenmartbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media print {
+    .navbar, .footer , .chatbot  {
+      display: none !important;
+    }
+}
+
+/* Hide Google branding elements */
+.goog-logo-link,
+.goog-te-gadget span,
+.goog-te-gadget-simple img,
+.goog-te-menu-value {
+  display: none !important;
+}
+
+/* Style the Translate button */
+.goog-te-gadget-simple {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  cursor: pointer;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Show only the Globe icon */
+.goog-te-gadget-simple::before {
+  content: "🌍"; /* Globe icon */
+  font-size: 24px; /* Adjust size */
+  display: block;
+}
+
+/* Hide Google Translate top bar */
+.goog-te-banner-frame {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+}
