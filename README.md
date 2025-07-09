@@ -32,5 +32,16 @@ GreenMart is a full-stack web application built using the MERN stack (MongoDB, E
 | State Management | React Hooks, Context API |
 | Routing     | React Router DOM           |
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./Screenshot/home.png)
+
+### 🛒 Cart Page
+![Cart Page](./Screenshot/cart.png)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](./Screenshot/admin-dashboard.png)
+
 
 
