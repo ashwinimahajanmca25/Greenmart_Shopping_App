@@ -38,7 +38,7 @@ GreenMart is a full-stack web application built using the MERN stack (MongoDB, E
 ![Home Page](./GreenMart/Screenshot/HomePage.png)
 
 ### 🛒 Cart Page
-![Cart Page](./GreenMart/Screenshot/cart.png)
+![Cart Page](./GreenMart/Screenshot/CartPage.png)
 
 ### 🧑‍💼 Admin Dashboard
 ![Admin Dashboard](./GreenMart/Screenshot/admin-dashboard.png)
